@@ -25,7 +25,7 @@ I am familiar with photoshop, illustrator, and premiere pro.
 Below are some projects I have made with Adobe.
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/uDvPqhlwIBwframeborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/uDvPqhlwIBwframeborder="0" allowfullscreen="true"> 
 </figure> 
 
 ## Computers and Laptops
