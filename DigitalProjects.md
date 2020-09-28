@@ -24,7 +24,9 @@
 I am familiar with photoshop, illustrator, and premiere pro.
 Below are some projects I have made with Adobe.
 
-https://youtu.be/uDvPqhlwIBw
+<figure class="video_container">
+  <iframe src="https://youtu.be/uDvPqhlwIBwframeborder="0" allowfullscreen="true"> </iframe>
+</figure> 
 
 ## Computers and Laptops
 I built my first computer a few years ago and currently looking to build another one in the future.
