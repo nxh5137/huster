@@ -9,3 +9,7 @@ I am currently in my second year at Penn State Behrend as both a student and an 
 I will be discussing digital projects I have done in the past and what I am currently working on.
 
 Also, I will have a resume in case anyone is interested.
+
+# Digital Projects
+# Resume
+# Essay
