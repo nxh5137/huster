@@ -1,3 +1,6 @@
+# [Who am I?](https://nxh5137.github.io/huster/)
+# [Digital Projects](https://user-images.githubusercontent.com/34407859/94380631-4e4b8080-0104-11eb-8ad0-f6697c1217ee.jpg)
+# [Resume](https://github.com/nxh5137/huster/blob/master/docs/Resume.md#resume)
 # Using GitHub and WordPress
 
   When I was using GitHub, I noticed a lot of challenges to newcomers since it is hard to navigate the website, and when typing your post, the layout may look a bit frightening since it looks like you would be coding.
