@@ -12,4 +12,4 @@ Also, I will have a resume in case anyone is interested.
 
 # Digital Projects
 # Resume
-# Essay
+# https://github.com/nxh5137/huster/blob/master/docs/Essay.md#using-github-and-wordpress
