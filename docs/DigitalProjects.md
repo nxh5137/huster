@@ -36,5 +36,5 @@ I have been making websites since high school through dream weaver that is now l
 
 WordPress website: https://sites.psu.edu/huster/
 
-# [Resume](https://github.com/nxh5137/huster/blob/master/docs/Resume.md#resume)
-# [Essay](https://github.com/nxh5137/huster/blob/master/docs/Essay.md#using-github-and-wordpress)
+# [Resume](https://nxh5137.github.io/huster/Resume)
+# [Essay](https://nxh5137.github.io/huster/Essay)
