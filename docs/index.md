@@ -10,6 +10,6 @@ I will be discussing digital projects I have done in the past and what I am curr
 
 Also, I will have a resume in case anyone is interested.
 
-# Digital Projects
-# Resume
+# [Digital Projects](https://github.com/nxh5137/huster/blob/master/docs/DigitalProjects.md#digital-projects)
+# [Resume](https://github.com/nxh5137/huster/blob/master/docs/Resume.md#resume)
 # [Essay](https://github.com/nxh5137/huster/blob/master/docs/Essay.md#using-github-and-wordpress)
