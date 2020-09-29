@@ -1,5 +1,5 @@
-#[Who am I?](https://nxh5137.github.io/huster/) 
-#[Digital Projects](https://nxh5137.github.io/huster/DigitalProjects)
+# [Who am I?](https://nxh5137.github.io/huster/) 
+# [Digital Projects](https://nxh5137.github.io/huster/DigitalProjects)
 # Resume
 
 # Jobs
@@ -49,4 +49,4 @@
 # Education
 ## Harborcreek Senior High School
 * High School Diploma
-[Essay](https://nxh5137.github.io/huster/Essay)
+# [Essay](https://nxh5137.github.io/huster/Essay)
