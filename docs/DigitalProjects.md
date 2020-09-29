@@ -1,5 +1,3 @@
-theme: jekyll-theme-time-machine
-
 # [Who am I?](https://nxh5137.github.io/huster/)
 # Digital Projects
 ## Raspberry Pi
