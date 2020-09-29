@@ -5,6 +5,9 @@
 
 Allow me to introduce myself, my name is Nathan Huster. 
 I am currently in my second year at Penn State Behrend as both a student and an employee.
+Currently, I am undecided about what I want to do in the future since the possibilities are almost endless.
+I like to write, read, learn, build computers, and fix laptops. 
+In the future, I hope to do many projects, whether it is writing a book or creating a game.
 
 I will be discussing digital projects I have done in the past and what I am currently working on.
 
