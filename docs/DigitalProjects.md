@@ -1,3 +1,4 @@
+# [Who am I?](https://nxh5137.github.io/huster/)
 # Digital Projects
 ## Raspberry Pi
 I have worked on a raspberry since I was in high school when they gave it to me so I can teach the teachers things that they could do with it. So far I have made it an entertainment center that can play both movies and games, manage to code some music with it, as well make a voice kit that acts that a Google home, which you can see here.
@@ -35,3 +36,5 @@ I have been making websites since high school through dream weaver that is now l
 
 WordPress website: https://sites.psu.edu/huster/
 
+# [Resume](https://github.com/nxh5137/huster/blob/master/docs/Resume.md#resume)
+# [Essay](https://github.com/nxh5137/huster/blob/master/docs/Essay.md#using-github-and-wordpress)
