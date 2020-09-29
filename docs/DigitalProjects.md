@@ -21,11 +21,6 @@ While not as digital as the others on this list, I thought I would bring up how 
 
 ![IMG_0844](https://user-images.githubusercontent.com/34407859/94496737-3981f200-01c3-11eb-9925-1a0b5af192c7.jpg)
 
-## Adobe
-I am familiar with photoshop, illustrator, and premiere pro since high school with projects that have since been deleted or lost. My job at the school involves some knowledge of illustrator and photoshop. Below are some projects I have made with Adobe.
-
-https://youtu.be/uDvPqhlwIBw
-
 ## Computers and Laptops
 I built my first computer a few years ago and currently looking to build another one in the future.
 
@@ -34,9 +29,6 @@ I built my first computer a few years ago and currently looking to build another
 A few years later, I job shadowed a company and learned how to repair laptops. I have many laptops around my room that are operational and run smoothly for the most part.
 
 ![IMG_0843](https://user-images.githubusercontent.com/34407859/94495943-0c344480-01c1-11eb-8a23-aea55e972648.jpg)
-
-## Digital Audio
-While attending Behrend, I took a digital audio class and made audio, while I will admit it is not great, you could listen to it if you want.
 
 ## Websites
 I have been making websites since high school through dream weaver that is now lost somewhere on the Internet. Now that I am in college though, I have made two websites, one on GitHub, and the other on WordPress, which I will link to below.
