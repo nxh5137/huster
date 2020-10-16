@@ -16,3 +16,4 @@ A skill I would like to improve would be to organize it better since my posts se
 
 If you want to see my WordPress website, you can find it here.
 https://sites.psu.edu/huster/
+# [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
