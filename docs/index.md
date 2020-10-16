@@ -16,3 +16,4 @@ Also, I will have a resume in case anyone is interested.
 # [Digital Projects](https://nxh5137.github.io/huster/DigitalProjects)
 # [Resume](https://nxh5137.github.io/huster/Resume)
 # [Essay](https://nxh5137.github.io/huster/Essay)
+# [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
