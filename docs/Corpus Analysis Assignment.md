@@ -28,4 +28,12 @@ As mentioned in the introduction, I used _Voyant Tools_ for this project as well
 I found that there are similarities between the two pieces of literature that are not just generic words that could be found in another piece of literature.
 In an item list of 20, one of the most frequently used words that appear in both books are 'Elizabeth' as you can see in the picture below.
 As well as that, in the cirrus chart, many common words can be seen within the chart, like 'father', 'shall', 'great', etc.
+While some words are frequent in both, they do not frequently shown as often as it might in another, for example, 'Elizabeth' in _Frankenstein_, does not appear as often as it does in _Pride & Prejudice_.
+
+![Screenshot (29)](https://user-images.githubusercontent.com/34407859/96312997-a36f0980-0fc1-11eb-951b-28c15a339e8e.png) _Pride & Prejudice Voyant_
+
+![Screenshot (30)](https://user-images.githubusercontent.com/34407859/96313109-02348300-0fc2-11eb-9878-c1020b5f6595.png) _Frankenstein Voyant_
+(Not sure why that â symbol is there or how to delete it)
+
+
 
