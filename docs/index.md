@@ -18,3 +18,4 @@ Also, I will have a resume in case anyone is interested.
 # [Essay](https://nxh5137.github.io/huster/Essay)
 # [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
 # [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
+# [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
