@@ -41,3 +41,4 @@ WordPress website: https://sites.psu.edu/huster/
 # [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
 # [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
 # [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
+# [Game Review](https://nxh5137.github.io/huster/Game%20Review)
