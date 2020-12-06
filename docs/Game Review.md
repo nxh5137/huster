@@ -44,6 +44,9 @@ As well as that it shows a poster of a political candidate that has a similar na
 
 ## Final Thoughts
 
+![Screenshot 2020-12-05 151051](https://user-images.githubusercontent.com/34407859/101268750-e5503c80-3734-11eb-9de4-5446e62181af.png)
+-Inventory
+
 I thought the demo was good, I don't think it will be winning many awards, but it does have potential.
 Characters are something I haven't seen in the real world with girls her age would do and the characters have a unique design.
 World building is subtle if you go through the characters inventory or seen Blade Runner.
