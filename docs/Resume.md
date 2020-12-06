@@ -11,7 +11,7 @@
   * Help customers
   * Scan bins
 
-## Penn State Behrend (1/2020-present)
+## Penn State Behrend (1/2020-11/2020)
 ### Student Employee
 * Tasks
   * Caption videos
@@ -20,7 +20,7 @@
   * Photoshop
   * Illustrator
   
-## KFC (12/2019-present)
+## KFC (12/2019-9/2020)
 ### Team Member (Cook)
 * Tasks
   * Cook chicken
@@ -53,3 +53,4 @@
 # [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
 # [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
 # [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
+# [Game Review](https://nxh5137.github.io/huster/Game%20Review)
