@@ -16,7 +16,7 @@ It is made by an Indie studio called [_Chaosmonger Studio_](http://www.chaosmong
 At the time of writing this, only the demo was available, but it is suppose to be released on [Steam](https://store.steampowered.com/app/1137450/Encodya/) and [Gog.com](https://www.gog.com/game/encodya) on January 26, 2021.
 So this review is only what the demo has to offer, is it unfair to judge something by 30 minutes, maybe but I need a grade.
 
-## Overview
+### Overview
 
 You play as a young orphaned girl and her robot caregiver in Neo-Berlin, 2062.
 The world is very similar to Philip K. Dick's popular works, but is really eyeing _Blade Runner_ in particular.
@@ -42,7 +42,7 @@ As well as that it shows a poster of a political candidate that has a similar na
 ![censored version](https://user-images.githubusercontent.com/34407859/101268152-0eb99a00-372e-11eb-9a1b-2b9a21cdd6d4.png)
 -Pixel Easter Egg
 
-## Final Thoughts
+### Final Thoughts
 
 ![Screenshot 2020-12-05 151051](https://user-images.githubusercontent.com/34407859/101268750-e5503c80-3734-11eb-9de4-5446e62181af.png)
 -Inventory
@@ -57,3 +57,16 @@ Also, it seems to rely on references in this game.
 Remember when I said I chuckled a few times, it was mainly because they were references that I was aware of, but how many people will understand the _CD Projekt Red_ reference without knowing any of their games.
 Maybe this is a personal thought, but they are really trying to release it today and gain popularity within the first few months while _CD Projekt Red_ is making RPGs or making politicians relevant, and I don't think a game or other forms of media should do that.
 If you would like to know more on why, you can always support my [Kickstarter](https://sites.google.com/site/whydidyouclickonthelink/) (please, college doesn't pay for itself and I need all the help I can get).
+
+## [Aurore](https://reverie-forge.itch.io/aurore)
+
+![aurore pic](https://user-images.githubusercontent.com/34407859/101702164-5a31b800-3a4e-11eb-97f2-9acce1e08ef9.png)
+
+_Aurore_ is a much different than Encodya, so if you were not fond of that you might want to give this one a try. 
+It is not a long, should only take you about 30 minutes to complete.
+It was made by only nine students in only two and a half months, and that is pretty impressive for obvious reasons I will be discussing, so stick around.
+
+### Overview
+
+While on a train ride, a person starts dreaming of another world.
+You play as her dream self who looks as if she is leaving some sort of rave and she has control the size of objects.
