@@ -37,7 +37,7 @@ As you progress through the game, some of the objects are spring loaded or chang
 Besides those objects, you can collect things called memories.
 These look like as though they were created with shattered stain glass by a five year old with tape.
 Some are quite easy to find, but a bit out of the way, whereas others I couldn'tget to without getting a slap on the wrist for wanting to explore more.
-I was not dedicated enough to go out of my way to get them because the frame rate drop faster than an art exhibit in an M5 earthquake and made the 3D platforming almost abysmal.
+I was not dedicated enough to go out of my way to get them because the frame rate dropped faster than an art exhibit in an M5 earthquake and made the 3D platforming almost abysmal.
 I am willing to forgive this though since my computer is ~5 years old running on parts older than the day I built it.
 ![Screenshot (51)](https://user-images.githubusercontent.com/34407859/101929218-91b27880-3ba4-11eb-8cd0-016af8ea1e44.png)
 -Memory
@@ -49,7 +49,7 @@ A little easter egg is that if you pause the game, you blink into the real world
 ![Screenshot (56)](https://user-images.githubusercontent.com/34407859/101921193-b7d31b00-3b9a-11eb-9147-6c2762e246d4.png)
 -_Aurore_ menu screen
 
-While I am aware that a called the game not that complex, the world-building is very subtle.
+While I am aware that I called the game not that complex, the world-building is very subtle.
 While you explore the world, you notice that the world has let gravity, from the characters movement to objects that are floating.
 You may not take notice in it if you are playing casually your first playthrough, you might notice why your second after your second playthrough because you know how it ends.
 If you know anything about space, then they ending will make sense.
@@ -59,9 +59,9 @@ At the end you notice that the moon is bigger than normal and you need to shrink
 
 ### Final Thoughts
 
-The game is definetly an interesting game that takes up a big spot normally reserved for my plans in life and things I've studied for.
-It has lead me to ask questions that I didn't ask in games such as _Encodya_, because not a single word is spoken.
-Some questions include who is the girl, why is the church upside down, why is the water pink, and a question that every game within a dream, was it a dream
+The game is definitely an interesting game that takes up a big spot normally reserved for my plans in life and things I've studied for.
+It has led me to ask questions that I didn't ask in games such as _Encodya_, because not a single word is spoken.
+Some questions include who is the girl, why is the church upside down, why is the water pink, and a question that every game within a dream, was it a dream?
 It is like the mechanics of [_Superliminal_](https://store.steampowered.com/app/1049410/Superliminal/) and the 3d platforming of _Banjo Kazooie_ were combined.
 The mechanics were fun to play around with and was visually appealing, nothing that would make me ask which was real, but enough to say it looks good.
 It is also the perfect length, short enough to play if you are on a train ride, and not long enough to get bored with the mechanics.
