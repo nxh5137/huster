@@ -6,6 +6,6 @@
 # [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
 # [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
 
-## [_Encodya Demo_](https://nxh5137.github.io/huster/Encodya%20review)
+## [_-Encodya Demo_](https://nxh5137.github.io/huster/Encodya%20review)
 
-## [_Aurore_](https://nxh5137.github.io/huster/Aurore)
+## [_-Aurore_](https://nxh5137.github.io/huster/Aurore)
