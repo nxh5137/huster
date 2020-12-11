@@ -74,7 +74,7 @@ She really does stick out like a sore thumb, but it does benefit the game in thi
 You explore the world quite linear, which looks like a model train set frozen at the moment Godzilla showed up.
 That being said, you can branch out a little and get collectibles.
 ![Screenshot (44)](https://user-images.githubusercontent.com/34407859/101930434-249fe280-3ba6-11eb-9571-750ec664adf8.png)
-- The world of _Aurore_
+-The world of _Aurore_
 
 In this game, you get around by changing the size of certain objects.
 How do you know what can be changed, simple really, It will be highlighted blue.
@@ -83,7 +83,7 @@ The object you are changing can only become so big/small, so no hopes in trying 
 As you progress through the game, some of the objects are spring loaded or change weight when you change the size.
 ![Screenshot (46)](https://user-images.githubusercontent.com/34407859/101925053-6e38ff00-3b9f-11eb-9e04-3ccd17488c89.png)
 ![Screenshot (48)](https://user-images.githubusercontent.com/34407859/101925252-a80a0580-3b9f-11eb-9793-46bb8b8909d5.png)
-- Objects that can be changed
+-Objects that can be changed
 
 Besides those objects, you can collect things called memories.
 These look like as though they were created with shattered stain glass by a five year old with tape.
@@ -98,7 +98,7 @@ The whole point is that it is a dream, an escape from the real world.
 The game is aware that it's a dream, since at the beginning and the end of the game, you are awake in the real world.
 A little easter egg is that if you pause the game, you blink into the real world still on the train and fade back after you resume the game.
 ![Screenshot (56)](https://user-images.githubusercontent.com/34407859/101921193-b7d31b00-3b9a-11eb-9147-6c2762e246d4.png)
-- _Aurore_ menu screen
+-_Aurore_ menu screen
 
 While I am aware that a called the game not that complex, the world-building is very subtle.
 While you explore the world, you notice that the world has let gravity, from the characters movement to objects that are floating.
@@ -106,7 +106,7 @@ You may not take notice in it if you are playing casually your first playthrough
 If you know anything about space, then they ending will make sense.
 At the end you notice that the moon is bigger than normal and you need to shrink it and once you do, the water levels start to lower revealing a building.
 ![Screenshot (54)](https://user-images.githubusercontent.com/34407859/101932058-400bed00-3ba8-11eb-966c-d397d827680b.png)
-- The moon
+-The moon
 
 ### Final Thoughts
 
