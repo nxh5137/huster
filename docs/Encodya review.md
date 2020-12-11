@@ -57,4 +57,5 @@ Also, it seems to rely on references in this game.
 Remember when I said I chuckled a few times, it was mainly because they were references that I was aware of, but how many people will understand the _CD Projekt Red_ reference without knowing any of their games.
 Maybe this is a personal thought, but they are really trying to release it today and gain popularity within the first few months while _CD Projekt Red_ is making RPGs or making politicians relevant, and I don't think a game or other forms of media should do that.
 If you would like to know more on why, you can always support my [Kickstarter](https://sites.google.com/site/whydidyouclickonthelink/) (please, college doesn't pay for itself and I need all the help I can get).
+
 [<< back to reviews](https://nxh5137.github.io/huster/Game%20Review)
