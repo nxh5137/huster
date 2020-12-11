@@ -71,4 +71,5 @@ I probably would've speed ran it in 20 minutes or something if it weren't for th
 Overall, I would like to congratulte the small team of developers for creating this game.
 ![Screenshot (55)](https://user-images.githubusercontent.com/34407859/101939219-adbd1680-3bb2-11eb-9f4e-3eadfaac7a86.png)
 -The end
+
 [<< Back to reviews](https://nxh5137.github.io/huster/Game%20Review)
