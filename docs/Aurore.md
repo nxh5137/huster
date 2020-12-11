@@ -61,7 +61,7 @@ At the end you notice that the moon is bigger than normal and you need to shrink
 
 The game is definetly an interesting game that takes up a big spot normally reserved for my plans in life and things I've studied for.
 It has lead me to ask questions that I didn't ask in games such as _Encodya_, because not a single word is spoken.
-Some questions include who is the girl, why is the church upside down, and a question that every game within a dream, was it a dream?
+Some questions include who is the girl, why is the church upside down, why is the water pink, and a question that every game within a dream, was it a dream
 It is like the mechanics of [_Superliminal_](https://store.steampowered.com/app/1049410/Superliminal/) and the 3d platforming of _Banjo Kazooie_ were combined.
 The mechanics were fun to play around with and was visually appealing, nothing that would make me ask which was real, but enough to say it looks good.
 It is also the perfect length, short enough to play if you are on a train ride, and not long enough to get bored with the mechanics.
