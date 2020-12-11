@@ -1,3 +1,12 @@
+# [Who am I?](https://nxh5137.github.io/huster/)
+# [Digital Projects](https://nxh5137.github.io/huster/DigitalProjects)
+# [Resume](https://nxh5137.github.io/huster/Resume)
+# [Essay](https://nxh5137.github.io/huster/Essay)
+# [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
+# [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
+# [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
+# [Game Review](https://nxh5137.github.io/huster/Game%20Review)
+
 ## [_Encodya Demo_](https://chaosmonger.itch.io/encodya)
 
 ![encodya](https://user-images.githubusercontent.com/34407859/101263142-1ae32e80-3711-11eb-8bdf-4fd620634eef.jpg)
