@@ -5,7 +5,7 @@
 # [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
 # TimeMapper
 
-![jack churchill](https://timemapper.okfnlabs.org/anon/mfnb62-jack-churchill-time-mapper-nathan-huster#1)
+[jack churchill TimeMapper](https://timemapper.okfnlabs.org/anon/mfnb62-jack-churchill-time-mapper-nathan-huster#1)
 
 # [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
 # [Game Review](https://nxh5137.github.io/huster/Game%20Review)
