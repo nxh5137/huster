@@ -4,7 +4,7 @@
 
 # Jobs
 
-## Walmart (8/2020-present)
+## Walmart (8/2020-1/2021)
 ### Sales Associate
 * Tasks
   * Stock shelves
