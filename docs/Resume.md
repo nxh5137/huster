@@ -32,7 +32,7 @@
 
 ## CVS (4/2019-6/2019)
 ### Sales Associate
-* Task
+* Tasks
   * Stock shelves
   * Straighten shelves
   * Help customers
