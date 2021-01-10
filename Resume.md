@@ -2,14 +2,14 @@
 
 # Jobs
 
-## Walmart (8/2020-present)
+## Walmart (8/2020-1/2021)
 ### Sales Associate
 * Tasks
   * Stock shelves
   * Help customers
   * Scan bins
 
-## Penn State Behrend (1/2020-present)
+## Penn State Behrend (1/2020-11/2020)
 ### Student Employee
 * Tasks
   * Caption videos
@@ -18,7 +18,7 @@
   * Photoshop
   * Illustrator
   
-## KFC (12/2019-present)
+## KFC (12/2019-8/2020)
 ### Team Member (Cook)
 * Tasks
   * Cook chicken
