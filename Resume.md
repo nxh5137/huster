@@ -2,6 +2,18 @@
 
 # Jobs
 
+## Giant Eagle (4/2021-present)
+### Team Member-Produce
+* Tasks
+  * Help customers
+  * Stock shelves
+  * Check quality of product
+  
+## United States Postal Office (12/2021-1/2022)
+### Holiday Clerk Assistant
+* Tasks
+  * Sort packages
+ 
 ## Walmart (8/2020-1/2021)
 ### Sales Associate
 * Tasks
@@ -15,8 +27,7 @@
   * Caption videos
   * Document videos
   * Export educational videos
-  * Photoshop
-  * Illustrator
+  * Use Adobe Creative Cloud
   
 ## KFC (12/2019-8/2020)
 ### Team Member (Cook)
@@ -45,5 +56,6 @@
   * Push the elderly around
 
 # Education
-## Harborcreek Senior High School
-* High School Diploma
+## Pennsylvania State University (6/2019-5/2021)
+* Associates Degree
+  * Letters, Arts & Science
