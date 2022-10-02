@@ -9,7 +9,7 @@
   * Stock shelves
   * Check quality of product
   
-## United States Postal Office (12/2021-1/2022)
+## United States Postal Service (12/2021-1/2022)
 ### Holiday Clerk Assistant
 * Tasks
   * Sort packages
@@ -28,7 +28,7 @@
   * Document videos
   * Export educational videos
   * Use Adobe Creative Cloud
-  
+ 
 ## KFC (12/2019-8/2020)
 ### Team Member (Cook)
 * Tasks
@@ -47,7 +47,6 @@
   * Help customers
   * Put labels on shelves
   * Take shelving units apart
-
 ## Brevillier Village (6/2017-4/2019)
 ### Volunteer
 * Tasks
