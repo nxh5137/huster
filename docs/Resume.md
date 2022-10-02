@@ -1,9 +1,20 @@
 # [Who am I?](https://nxh5137.github.io/huster/) 
-# [Digital Projects](https://nxh5137.github.io/huster/DigitalProjects)
 # Resume
 
 # Jobs
 
+## Giant Eagle (4/2021-present)
+### Team Member-Produce
+* Tasks
+  * Help customers
+  * Stock shelves
+  * Check quality of product
+  
+## United States Postal Office (12/2021-1/2022)
+### Holiday Clerk Assistant
+* Tasks
+  * Sort packages
+ 
 ## Walmart (8/2020-1/2021)
 ### Sales Associate
 * Tasks
@@ -17,10 +28,9 @@
   * Caption videos
   * Document videos
   * Export educational videos
-  * Photoshop
-  * Illustrator
+  * Use Adobe Creative Cloud
   
-## KFC (12/2019-9/2020)
+## KFC (12/2019-8/2020)
 ### Team Member (Cook)
 * Tasks
   * Cook chicken
@@ -32,7 +42,7 @@
 
 ## CVS (4/2019-6/2019)
 ### Sales Associate
-* Tasks
+* Task
   * Stock shelves
   * Straighten shelves
   * Help customers
@@ -47,10 +57,6 @@
   * Push the elderly around
 
 # Education
-## Harborcreek Senior High School
-* High School Diploma
-# [Essay](https://nxh5137.github.io/huster/Essay)
-# [Corpus Analysis Assignment](https://nxh5137.github.io/huster/CorpusAnalysisAssignment)
-# [TimeMapper](https://nxh5137.github.io/huster/TimeMapper)
-# [Frankenstein Variorum Review](https://nxh5137.github.io/huster/Variorum_Reflection)
-# [Game Review](https://nxh5137.github.io/huster/Game%20Review)
+## Pennsylvania State University (6/2019-5/2021)
+* Associates Degree
+  * Letters, Arts & Science
